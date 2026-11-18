@@ -9,6 +9,6 @@
     - [VS Codeインストール](./環境構築/VSCodeinstall.md)
     - [VS Code設定](./環境構築/VSCodeSettings.md)
   - [ハンズオン① アプリ作成](./ハンズオン/HandsOn1.md)
-  - ハンズオン②機能追加
-  - ハンズオン③ コード理解
+  - [ハンズオン②機能追加](./ハンズオン/HandsOn1.md)
+  - [ハンズオン③ コード理解](./ハンズオン/HandsOn1.md)
 - 振り返り・質疑
